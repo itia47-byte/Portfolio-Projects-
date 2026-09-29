@@ -6,7 +6,8 @@ SQL view on AdventureWorksDW2022 + Power BI variance report (Actual, Budget, Var
 
 📈 **Sales & Profitability Performance Dashboard**  
 Profit and margin analysis by country, segment and product; identifies the loss-making Enterprise segment  
-🔗
+🔗 https://github.com/itia47-byte/Portfolio-Projects-/blob/main/Sales%20%26%20Profitablity%20Analysis.pdf
+
 
 🗄️ **Northwind Sales Performance Analysis**  
 10 T-SQL queries using CTEs and window functions (RANK, LAG, SUM OVER)  
