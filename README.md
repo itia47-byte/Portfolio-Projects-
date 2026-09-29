@@ -1,7 +1,7 @@
 # Portfolio-Projects-
 💰 **Budget vs Actual Financial Variance Dashboard**  
 SQL view on AdventureWorksDW2022 + Power BI variance report (Actual, Budget, Variance %, YTD, Prior Year)  
-🔗 [View Project](https://github.com/itia47-byte/REPO-NAME/tree/main/Budget_vs_Actual)
+🔗 
 
 📈 **Sales & Profitability Performance Dashboard**  
 Profit and margin analysis by country, segment and product; identifies the loss-making Enterprise segment  
