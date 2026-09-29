@@ -9,7 +9,6 @@ Profit and margin analysis by country, segment and product; identifies the loss-
 🔗 https://github.com/itia47-byte/Portfolio-Projects-/blob/main/Sales%20%26%20Profitablity%20Analysis.pdf
    https://github.com/itia47-byte/Portfolio-Projects-/blob/main/Financial%20Sample.xlsx
 
-
 🗄️ **Northwind Sales Performance Analysis**  
 10 T-SQL queries using CTEs and window functions (RANK, LAG, SUM OVER)  
-🔗 [View Project](https://github.com/itia47-byte/REPO-NAME/tree/main/Northwind_SQL_Analysis)
+🔗 https://github.com/itia47-byte/Portfolio-Projects-/blob/main/Northwind%20Sales%20Analysis.sql
